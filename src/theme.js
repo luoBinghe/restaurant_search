@@ -1,5 +1,3 @@
-import { findRenderedDOMComponentWithClass } from "react-dom/test-utils"
-
 const theme = {
     colors: {
         primary: '#6200ee',
